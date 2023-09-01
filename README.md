@@ -17,7 +17,7 @@ Upon completion, a **public** Github URL should be sent to the following people:
 
 ## The Challenge
 
-You'll be creating a React application that interacts with the XKCD API. 
+You'll be creating a React Web application that interacts with the XKCD API. 
 
 If you've never heard of XKCD before, it's a fun web comic. You can check it out here - [XKCD Website](https://xkcd.com).
 
